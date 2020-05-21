@@ -8,3 +8,4 @@
 - [HW5](https://github.com/slowwavesleep/HSE_ML/blob/master/HW5/HW5.ipynb) Ансамблирование
 - [HW6](https://github.com/slowwavesleep/HSE_ML/blob/master/HW6/HW6.ipynb) Введение в нейронные сети
 - [HW7](https://github.com/slowwavesleep/HSE_ML/blob/master/HW7/HW7.ipynb) Сверточные нейронные сети
+- [HW8](https://github.com/slowwavesleep/HSE_ML/blob/master/HW8/HW8.ipynb) Рекуррентные нейронные сети
