@@ -10,5 +10,5 @@
 - [HW7](https://github.com/slowwavesleep/HSE_ML/blob/master/HW7/HW7.ipynb) Сверточные нейронные сети
 - [HW8](https://github.com/slowwavesleep/HSE_ML/blob/master/HW8/HW8.ipynb) Рекуррентные нейронные сети
 
-Финальный проект:
+Финальный проект:<br>
 Проект на основе соревнования [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/) (использовалась только часть датасета).
