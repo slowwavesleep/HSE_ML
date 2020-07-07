@@ -11,4 +11,4 @@
 - [HW8](https://github.com/slowwavesleep/HSE_ML/blob/master/HW8/HW8.ipynb) Рекуррентные нейронные сети
 
 Финальный проект:<br>
-[Проект](https://github.com/slowwavesleep/HSE_ML/blob/master/Project/ml_project.ipynb) на основе соревнования [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/) (использовалась только часть датасета).
+[Проект](https://github.com/slowwavesleep/HSE_ML/blob/master/Project/ml_project.ipynb) на основе соревнования [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/) (использовалась только часть датасета на английском языке).
